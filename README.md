@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Alim</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
 
+
+
+
+
 ### 💡 About Me:
 - 🔥 Full-Stack Web Developer with expertise in **React, Next.js, Express, Mongoose, Prisma, PostgreSQL**
 - 🎯 Always eager to learn and explore new technologies
@@ -61,15 +65,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulalimsujon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 📈 My Progress:
-<p align="center">
-  ![Wakatime Stats](https://wakatime.com/share/@<your_wakatime_username>/graphs/latest.svg)  <!-- Replace with your WakaTime username -->
-</p>
-
-<p align="center">
-  ![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=abdulalimsujon&theme=radical&hide_border=true)
 </p>
