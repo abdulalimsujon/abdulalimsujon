@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Md Abdul Alim</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://i.ibb.co/LdDx028Y/myImage.jpg" alt="Md Abdul Alim" width="200" style="border-radius: 50%;" />
-</p>
 
----
+
+
 
 ### 💡 About Me:
 - 🔥 Full-Stack Web Developer with expertise in **React, Next.js, Express, Mongoose, Prisma, PostgreSQL**
