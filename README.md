@@ -54,19 +54,6 @@
   </a>
 </p>
 
----
-
-### 🧑‍💻 A Bit of My Coding Life:
-<p align="center">
-  <img src="https://lottie.host/93e3a0e5-17d3-4a42-9b30-1d8655c003d1/dzcsnIlRg8.json" alt="coding animation" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="code cartoon gif"/>
-</p>
-
----
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=radical" alt="GitHub Stats" />
