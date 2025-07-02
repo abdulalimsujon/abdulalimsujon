@@ -1,4 +1,7 @@
-[![MasterHead](https://i.ibb.co/cKyrKWXw/background.png)](https://i.ibb.co/cKyrKWXw/background.png)
+<!-- Simulated background color using a banner image -->
+<p align="center">
+  <img src="https://i.ibb.co/cKyrKWXw/background.png" alt="Welcome Banner" width="1000" height="250"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Md Abdul Alim</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
@@ -54,7 +57,31 @@
   </a>
 </p>
 
-### 📊 GitHub Stats:
+---
+
+### 📊 Skills Progress
+
+**React**  
+![React](https://progress-bar.dev/90/?title=React&width=400&color=4caf50)
+
+**Next.js**  
+![Next.js](https://progress-bar.dev/85/?title=Next.js&width=400&color=2196f3)
+
+**Node.js**  
+![Node.js](https://progress-bar.dev/80/?title=Node.js&width=400&color=43a047)
+
+**MongoDB**  
+![MongoDB](https://progress-bar.dev/80/?title=MongoDB&width=400&color=4db33d)
+
+**PostgreSQL**  
+![PostgreSQL](https://progress-bar.dev/70/?title=PostgreSQL&width=400&color=336791)
+
+**TypeScript**  
+![TypeScript](https://progress-bar.dev/70/?title=TypeScript&width=400&color=007acc)
+
+---
+
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -71,4 +98,3 @@
 
 ### 🧠 Fun Fact:
 > 🌈 I don't just build software—I build experiences. From idea to deployment, I love crafting elegant, performant, and scalable web applications.
-
