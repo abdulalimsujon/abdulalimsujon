@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/cKyrKWXw/background.png)](https://i.ibb.co/cKyrKWXw/background.png)
+![Image](image.png)
 
 <h1 align="center">Hi 👋, I'm Md Abdul Alim</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
