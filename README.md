@@ -67,6 +67,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulalimsujon&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### 📈 GitHub Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulalimsujon&theme=react-dark" alt="GitHub Activity Graph"/>
+</p>
+
 ---
 
 ### 🧠 Fun Fact:
