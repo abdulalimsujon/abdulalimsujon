@@ -54,22 +54,26 @@
   </a>
 </p>
 
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimsujon&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=abdulalimsujon&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulalimsujon&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
 ### 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulalimsujon&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdulalimsujon&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
