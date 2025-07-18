@@ -1,5 +1,4 @@
-
-<div style="background-color: #0d1117; padding: 20px; border-radius: 12px; color: white;">
+![Image](image.png)
 
 <h1 align="center">Hi 👋, I'm Md Abdul Alim</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
@@ -77,5 +76,3 @@
 
 ### 🧠 Fun Fact:
 > 🌈 I don't just build software—I build experiences. From idea to deployment, I love crafting elegant, performant, and scalable web applications.
-
-</div>
