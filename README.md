@@ -55,17 +55,21 @@
 </p>
 
 ### 📊 GitHub Stats:
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulalimsujon&layout=compact&theme=react&hide_border=true" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimsujon&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulalimsujon&theme=tokyonight&hide_border=true&layout=donut" alt="Most Used Languages" />
-</p>
+</p> -->
 
 ### 📈 GitHub Activity Graph:
 <p align="center">
