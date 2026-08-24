@@ -63,9 +63,10 @@
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulalimsujon&layout=compact&theme=react&hide_border=true" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimsujon&theme=radical" alt="GitHub Streak" />
-</p>
+<img
+  height="165"
+  src="https://github-readme-stats-fast.vercel.app/api?username=abdulalimsujon&show_icons=true&theme=react&hide_border=true"
+/>
 
 
 <!-- <p align="center">
