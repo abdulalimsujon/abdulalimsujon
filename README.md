@@ -5,6 +5,13 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer | Lifelong Learner | Tech Enthusiast</h3>
 
 <p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;MongoDB+%7C+PostgreSQL+%7C+Prisma;Building+Modern+%26+Scalable+Web+Apps"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="developer cartoon" width="400"/>
 </p>
 
