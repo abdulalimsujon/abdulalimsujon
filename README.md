@@ -64,8 +64,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimsujon&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abdulalimsujon&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
+<!-- <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulalimsujon&theme=radical" alt="GitHub Streak" />
+</p> -->
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulalimsujon&theme=tokyonight&hide_border=true&layout=donut" alt="Most Used Languages" />
