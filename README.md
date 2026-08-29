@@ -19,7 +19,6 @@
 
 ### 💡 About Me:
 - 🔥 Full-Stack Web Developer with expertise in **React, Next.js, Express, Mongoose, Prisma, PostgreSQL**
-- 🎯 Always eager to learn and explore new technologies
 - 💬 Ask me about **React, Next.js, Express, MongoDB, PostgreSQL**
 - 📩 Reach me at: **alimsujon12@gmail.com**
 
